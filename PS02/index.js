@@ -2,10 +2,10 @@ var svg = d3.select('svg');
 
 //Create SVG element
 
-/*svg.append("rect")
+svg.append("rect")
     .attr("width", "100%")
     .attr("height", "100%")
-    .attr("fill", "#63b6ff");*/
+    .attr("fill", "#000");
 
 //var dataset = d3.csv("./data.csv", function(data) {
   //  console.log(data);
